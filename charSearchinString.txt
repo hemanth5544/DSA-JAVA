@@ -1,0 +1,21 @@
+import java.util.*;
+class charSearchinString{
+    public static void main(String[] args) {
+         String name="kunal";
+         char target="u";
+         System.out.println(searchinstr);
+
+        i
+    }
+    static boolean searchinstr(String str,char target){
+        if(String.length()==0){
+            return false;
+
+        }
+        for(int i=0;i<String.length(;i++)){
+            if(str.charAt(i)==target)
+            return true;
+        }
+    }
+    return false;
+}
